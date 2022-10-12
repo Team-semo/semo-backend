@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SemoApplication {
 
     // go semo!
+    // gogo!
     public static void main(String[] args) {
         SpringApplication.run(SemoApplication.class, args);
     }
